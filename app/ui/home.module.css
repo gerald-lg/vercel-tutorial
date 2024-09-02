@@ -1,0 +1,13 @@
+/* 
+    CSS MODULES 
+    CREAN UN HASH QUE EVITA LAS COLISIONES ENTRE LAS CLASES
+*/
+
+.class {
+    background-color:aqua;
+}
+
+/* LA MANERA DE USARLA SERIA, IMPORTANDOLO Y PONIENDO 
+
+CLASSNAME= { home.class }
+*/
